@@ -1,4 +1,4 @@
-# 📊 Retail Business Performance Analysis (2012–2022)
+# 📊 Retail Business Performance Analysis
 
 ---
 
