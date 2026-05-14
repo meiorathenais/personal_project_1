@@ -1,4 +1,4 @@
-# 📊 Retail Business Performance Analysis (2012–2022)
+# 📊 Retail Business Performance Analysis
 
 > **Phân tích toàn diện hiệu quả kinh doanh bán lẻ** dựa trên 13 bảng dữ liệu thực tế, tập trung vào xu hướng doanh thu 10 năm, hiệu quả chiến dịch khuyến mãi và vận hành chuỗi cung ứng.
 
