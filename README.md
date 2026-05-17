@@ -9,7 +9,7 @@
 Doanh nghiệp bán lẻ đang đối mặt với ba thách thức cốt lõi cần được làm rõ bằng dữ liệu:
 
 | # | Câu hỏi phân tích | 
-|---|---|---|
+|---|---|
 | 1 | Xu hướng doanh thu 10 năm thay đổi như thế nào? 
 | 2 | Chiến dịch khuyến mãi có thực sự hiệu quả? 
 | 3 | Tồn kho và chuỗi cung ứng vận hành hiệu quả đến đâu? 
